@@ -1,2 +1,5 @@
-this is a git study test.txt
+this is a git study test.txt,add by 007
+2014-09-07
+
 add a new line
+
